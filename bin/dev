@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-npm install flowbite@2.4.1
+npm install
 
 if ! gem list foreman -i --silent; then
   echo "Installing foreman..."
