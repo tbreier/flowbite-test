@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To run:
 
-Things you may want to cover:
+* `bundle`
+* `./bin/dev`
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Then, navigate to [http://localhost:3000/flowbite](http://localhost:3000/flowbite) in your browser.
+You'll see the tooltip working. Click on "Update page" and you'll 
+see the new tooltip not working.
